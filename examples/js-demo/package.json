@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@docsearch/css": "3.3.0",
-    "@aliyun-sls/docsearch-js": "1.0.0"
+    "@aliyun-sls/docsearch-js": "^1.0.0"
   },
   "devDependencies": {
     "parcel": "2.7.0"

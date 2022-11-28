@@ -1,7 +1,7 @@
 {
   "name": "@aliyun-sls/docsearch-js",
   "description": "JavaScript package for DocSearch, the best search experience for docs.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "homepage": "https://docsearch.algolia.com",
   "repository": "algolia/docsearch",
@@ -30,7 +30,7 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "dependencies": {
-    "@aliyun-sls/docsearch-react": "1.0.0",
+    "@aliyun-sls/docsearch-react": "^1.0.0",
     "preact": "^10.0.0"
   }
 }

@@ -34,9 +34,10 @@ export type DocSearchModalProps = DocSearchProps & {
   translations?: ModalTranslations;
 };
 
-async function fetchData(openSearchUrl: string, query: string) {
-  const result = await fetch(`${openSearchUrl}?query=${query}`);
-  return result.json();
+function fetchData(openSearchUrl: string, query: string) {
+  return fetch(`${openSearchUrl}?query=${query}`).then((response: any) => {
+    return response.json();
+  });
 }
 
 export function DocSearchModal({
