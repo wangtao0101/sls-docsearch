@@ -3387,6 +3387,16 @@
     debug "^3.1.0"
     lodash.once "^4.1.1"
 
+"@docsearch/react@3.3.0", "@docsearch/react@^3.1.1":
+  version "3.3.0"
+  resolved "https://registry.npm.alibaba-inc.com/@docsearch/react/download/@docsearch/react-3.3.0.tgz#b8ac8e7f49b9bf2f96d34c24bc1cfd097ec0eead"
+  integrity sha512-fhS5adZkae2SSdMYEMVg6pxI5a/cE+tW16ki1V0/ur4Fdok3hBRkmN/H8VvlXnxzggkQIIRIVvYPn00JPjen3A==
+  dependencies:
+    "@algolia/autocomplete-core" "1.7.2"
+    "@algolia/autocomplete-preset-algolia" "1.7.2"
+    "@docsearch/css" "3.3.0"
+    algoliasearch "^4.0.0"
+
 "@docusaurus/core@2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.2.0.tgz#64c9ee31502c23b93c869f8188f73afaf5fd4867"

@@ -1,5 +1,5 @@
-import type { DocSearchProps as DocSearchComponentProps } from '@docsearch/react';
-import { DocSearch, version } from '@docsearch/react';
+import type { DocSearchProps as DocSearchComponentProps } from '@aliyun-sls/docsearch-react';
+import { DocSearch, version } from '@aliyun-sls/docsearch-react';
 import React, { render } from 'preact/compat';
 
 function getHTMLElement(

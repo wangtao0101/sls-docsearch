@@ -1,7 +1,7 @@
 {
-  "name": "@docsearch/react",
+  "name": "@aliyun-sls/docsearch-react",
   "description": "React package for DocSearch, the best search experience for docs.",
-  "version": "3.3.0",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://docsearch.algolia.com",
   "repository": "algolia/docsearch",
